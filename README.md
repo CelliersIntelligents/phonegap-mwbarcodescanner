@@ -1,6 +1,6 @@
 Manatee Works Barcode Scanner SDK Plugin
 =========================
- Version 2.1.1
+ Version 2.1.2
 
 Guide on how to add the Manatee Works Barcode Scanner SDK PhoneGap plugin to your project(s)
 
@@ -112,7 +112,12 @@ Guide on how to add the Manatee Works Barcode Scanner SDK PhoneGap plugin to you
         Flash            -  scanner.toggleFlash()
         Zoom             -  scanner.toggleZoom()
         
+
+##Important change in 2.1.2
         
+* UPC/EAN last digit missing fix
+
+
 ##Important change in 2.0
         
 * The registration call functions have been completely revamped. License credentials issued prior to v. 3.0 will no longer work with the new and future releases.
